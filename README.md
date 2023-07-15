@@ -8,7 +8,8 @@
 
     - Ph Value
         6.5–8.5
-        The pH of most drinking-water lies within the range 6.5–8.5. Natural waters can be of lower pH, as a result of, for example, acid rain or higher pH in limestone areas. The pH of an aqueous sample is usually measured electrometrically with a glass electrode.
+        The pH of most drinking-water lies within the range 6.5–8.5. Natural waters can be of lower pH, as a result of, for example,
+         acid rain or higher pH in limestone areas. The pH of an aqueous sample is usually measured electrometrically with a glass electrode.
 
     - Hardness
         Below 75 mg/L - is generally considered soft. 76 to 150 mg/L - moderately hard. 151 to 300 mg/L - hard.
