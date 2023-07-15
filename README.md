@@ -5,11 +5,10 @@
  </a>
   </p>
 
-
+<p>
     - Ph Value
         6.5–8.5
-        The pH of most drinking-water lies within the range 6.5–8.5. Natural waters can be of lower pH, as a result of, for example,
-         acid rain or higher pH in limestone areas. The pH of an aqueous sample is usually measured electrometrically with a glass electrode.
+        The pH of most drinking-water lies within the range 6.5–8.5. Natural waters can be of lower pH, as a result of, for example, acid rain or higher pH in limestone areas. The pH of an aqueous sample is usually measured electrometrically with a glass electrode.
 
     - Hardness
         Below 75 mg/L - is generally considered soft. 76 to 150 mg/L - moderately hard. 151 to 300 mg/L - hard.
@@ -37,3 +36,4 @@
 
      - Potability
         Potable water is the water which is filtered and treated properly and is finally free from all contaminants and harmful bacteria. This purified water is fit to drink, or it can be called 'drinking water after the purification processes and is safe for both cooking and drinking.
+</p>
