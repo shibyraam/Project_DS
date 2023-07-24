@@ -1,4 +1,7 @@
 <H1 align="center">Water Quality Analysis</H1>
+
+https://github.com/shibyraam/Project_DS/assets/118627163/1b3a8a56-13eb-4bbf-9f84-253a4dde93bf
+
 <p align="center">
 <a>
     <img alt="WaterQuality" src="https://64.media.tumblr.com/2f6a660218aaebd9ddb1c6ac9f3702b0/tumblr_one3sd8TXb1w1cbgho1_400.gif" width="700" height="350" >
